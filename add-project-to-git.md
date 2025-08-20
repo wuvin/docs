@@ -2,13 +2,6 @@
 
 Checklist for taking an existing folder with its contents and setting them up as a git repository.
 
-git init
-git branch -m main
-git add
-git commit -m
-git remote add origin git@github.com:wuvin/repo.git
-git push -u origin main
-
 ## Commands
 
 ```bash
